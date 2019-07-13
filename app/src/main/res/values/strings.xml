@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC</string>
+    <string name="about_alc">About ALC</string>
+    <string name="about_me">My profile</string>
+    <string name="adnanjunaidu">adnanjunaidu</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="country">Country:</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="email">Email:</string>
+    <string name="gmail">majktr@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="_08066036837">08066036837</string>
+    <string name="slack_user">Slack Name:</string>
+    <string name="adnan_junaidu">AdnanJunaidu</string>
+</resources>
